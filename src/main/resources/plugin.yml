@@ -1,0 +1,6 @@
+name: TraderSteve
+version: ${project.version}
+main: net.icarey.tradersteve.TraderSteve
+prefix: TraderSteve
+authors: [Smashedbotatos]
+description: Trade items for items using chests and signs.
